@@ -6,7 +6,11 @@ APIs en Python, Go y Javascript
 
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
+
+
 PYTHON 
+
+
 
 Los pasos para poner en ejecución son los siguientes
 Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
@@ -58,7 +62,11 @@ python manage.py migrate
 -----------------------------
 ---------------------------
 
+
+
 GO
+
+
 
 Los pasos para poner en ejecución son los siguientes
 Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de GO en la terminal de comandos
@@ -83,7 +91,11 @@ Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en c
 
 
 ------------------
+
+
 GO ECHO
+
+
 Con los siguientes códigos se descargar el framework ECHO de Go
 
 ```Terminal de comandos
@@ -92,7 +104,9 @@ go get github.com/labstack/echo
 ```
 ------------------
 
+
 GO GIN
+
 
 Con los siguientes códigos se descargar el framework GIN de GO
 
