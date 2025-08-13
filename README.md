@@ -33,7 +33,10 @@ Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en c
 
 ---------
 
+
 PYTHON DJANGO API CRUD
+
+
 Luego de crear la carpeta donde se va a crear la API con django 
 procedemos a intalar el framework django
 ```Terminal de comandos
