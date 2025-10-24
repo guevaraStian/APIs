@@ -7,6 +7,16 @@ APIs en Python, Go y Javascript
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 
+Luego de descargar github, Los comandos para acceder al repositorio son los siguientes.
+
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/APIs.git
+cd APIs
+git push origin master
+```
+---------
 
 PYTHON 
 
