@@ -23,13 +23,13 @@ PYTHON
 
 
 
-Los pasos para poner en ejecución son los siguientes
-Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
+Los pasos para poner en ejecución son los siguientes.
+Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos.
 
 ```Pagina web
 https://www.python.org/downloads/
 ```
-Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
+Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos.
 
 ```Terminal de comandos
 cd    
@@ -40,7 +40,7 @@ pip install flask fastapi uvicorn
 python <Nombre_Proyecto.py>
 
 ```
-Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
+Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes.
 
 ---------
 
@@ -48,25 +48,25 @@ Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en c
 PYTHON DJANGO API CRUD
 
 
-Luego de crear la carpeta donde se va a crear la API con django 
-procedemos a intalar el framework django
+Luego de crear la carpeta donde se va a crear la API con django .
+procedemos a intalar el framework django.
 ```Terminal de comandos
 pip install django djangorestframework
 ```
-Creamos el proyecto con el siguiente comando
+Creamos el proyecto con el siguiente comando.
 ```Terminal de comandos
 django-admin startproject Api_Python_CRUD_Django
 ```
-Luego de entrar a la carpeta, inicializamos la api en el servidor se da el siguiente starapp 
+Luego de entrar a la carpeta, inicializamos la api en el servidor se da el siguiente starapp .
 ```Terminal de comandos
 cd Api_Python_CRUD_Django
 python manage.py startapp api
 ```
-El servidor empieza a correr con el siguiente código
+El servidor empieza a correr con el siguiente código.
 ```Terminal de comandos
 python manage.py runserver
 ```
-Estos 2 codigos sirven en caso de migracion de informacion a la base de datos
+Estos 2 codigos sirven en caso de migracion de informacion a la base de datos.
 ```Terminal de comandos
 python manage.py makemigrations
 python manage.py migrate
