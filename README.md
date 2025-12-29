@@ -1,11 +1,8 @@
 
-<h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS DE APIs </h1> 
-<h1 style="font-size: 3em; color: #FF0000;">• PYTHON, JAVASCRIPT Y GO </h1> 
+<h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS DE APIs HECHAS CON PYTHON, JAVASCRIPT Y GO  </h1> 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge) 
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 
