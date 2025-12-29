@@ -20,8 +20,7 @@ git push origin master
 ```
 ---------
 
-PYTHON 
-
+<h2 style="font-size: 3em; color: #FF0000;">- PYTHON</h2> 
 
 
 Los pasos para poner en ejecución son los siguientes.
@@ -77,9 +76,9 @@ python manage.py migrate
 -----------------------------
 ---------------------------
 
+<h2 style="font-size: 3em; color: #FF0000;">- GO</h2> 
 
 
-GO
 
 
 
@@ -136,10 +135,10 @@ go get -u github.com/gin-gonic/gin
 
 -----------------------------
 ---------------------------
+<h2 style="font-size: 3em; color: #FF0000;">- JAVASCRIPT</h2> 
 
 
 
-JAVASCRIPT
 
 
 
