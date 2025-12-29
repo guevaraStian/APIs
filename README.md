@@ -1,5 +1,6 @@
 
 <h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS DE APIs EN PYTHON, JAVASCRIPT Y GO </h1> 
+<h1 style="font-size: 3em; color: #FF0000;">• PYTHON, JAVASCRIPT Y GO </h1> 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
