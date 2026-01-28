@@ -1,3 +1,4 @@
+# Se importan librerias
 from fastapi import FastAPI
 import requests
 
