@@ -1,0 +1,5 @@
+{
+    "monto": 100.0,
+    "metodo": "PayPal",
+    "estado": "aprobado"
+}
