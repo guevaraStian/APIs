@@ -6,7 +6,7 @@
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 
-Luego de descargar git, Los comandos para acceder al repositorio son los siguientes.
+Luego de descargar git, Se puede descargar estos archivos dando click en el boton verde y en dowload pero tambien se puede hacer con Los comandos de terminal siguientes.
 
 ```Terminal de comandos
 git --version
