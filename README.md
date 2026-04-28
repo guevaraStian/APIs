@@ -1,12 +1,12 @@
 
-<h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS DE APIs HECHAS CON PYTHON, JAVASCRIPT Y GO  </h1> 
+<h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS DE APIs HECHAS CON LOS LENGUAJES DE PROGRAMACION PYTHON, JAVASCRIPT Y GO  </h1> 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge) 
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
-
-Luego de descargar git, Los comandos para acceder al repositorio son los siguientes.
+Cada carpeta de este repositorio tiene un proyecto API en su mayoria CRUD que contienen create, read, update y delete en el mismo software en relacion a informacion de una base de datos.
+Luego de descargar git, Se puede descargar estos archivos dando click en el boton verde y en dowload pero tambien se puede hacer con los siguientes comandos de terminal .
 
 ```Terminal de comandos
 git --version
