@@ -1,4 +1,11 @@
-# Se importan librerias
+# El siguiente software orquestador de diferentes API con la libreria fastapi
+# el software agrupa diferentes apis en 1 sola llamada orquestador
+# Usando la librerias cv2, numpy y dlib y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install fastapi
+# pip 25.1.1
+# Python 3.13.1
+
 from fastapi import FastAPI
 import requests
 

@@ -1,7 +1,10 @@
-# Esta es una API secilla con la libreria flask para empezar a usar primero hay que instalar flask
+# El siguiente software es una API sencilla con la libreria flask
+# el software crea una api crud con python
+# Usando la librerias cv2, numpy y dlib y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
 # pip install flask
-# Para poner a funcionar el main es con el siguiente codigo
-# python main.py
+# pip 25.1.1
+# Python 3.13.1
 
 from flask import Flask, jsonify, request
 app = Flask(__name__)

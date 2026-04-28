@@ -1,6 +1,10 @@
-# API PYTHON FASTAPI, CRUD pero se requieren las siguientes librerias
-# pip install fastapi
-# pip install uvicorn
+# El siguiente software es una API sencilla con la libreria fastapi
+# el software crea una api crud con python
+# Usando la librerias cv2, numpy y dlib y sus datos
+# En el terminal de comandos importar librerias con el comando PIP 
+# pip install fastapi uvicorn
+# pip 25.1.1
+# Python 3.13.1
 # Para que funcione la aplicacion hay que ejecutar el siguiente comando
 # uvicorn app:app
 # http://127.0.0.1:8000/docs 

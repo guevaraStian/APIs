@@ -12,6 +12,9 @@
 # Estos 2 codigos sirven en caso de migracion de informacion a la base de datos
 # python manage.py makemigrations
 # python manage.py migrate
+# pip 25.1.1
+# Python 3.13.1
+
 
 import os
 import sys
