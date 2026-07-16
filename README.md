@@ -6,7 +6,7 @@
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 Cada carpeta de este repositorio tiene un proyecto API en su mayoria CRUD que contienen create, read, update y delete en el mismo software en relacion a informacion de una base de datos.
-Luego de descargar git, Se puede descargar estos archivos dando click en el boton verde y en dowload pero tambien se puede hacer con los siguientes comandos de terminal en cualquier sistema operativo que ya tenga descargado el git.
+Luego de descargar git, Se puede descargar estos archivos dando click en el boton verde y en dowload pero tambien se puede hacer con los siguientes comandos de terminal en cualquier sistema operativo que ya tenga descargado el git en su sistema operativo.
 
 ```Terminal de comandos
 git --version
