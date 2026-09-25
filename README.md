@@ -8,7 +8,7 @@
 Cada carpeta de este repositorio tiene un proyecto API (interfaz de programacion de aplicaciones) en su mayoria CRUD (Create, read, update, delete)  que contienen create, read, update y delete en el mismo software en relacion a informacion de una base de datos.
 Luego de descargar git, Se puede descargar estos archivos dando click en el boton verde y en dowload pero tambien se puede hacer con los siguientes comandos de terminal en cualquier sistema operativo que ya tenga descargado el git en su sistema operativo.
 
-El comando de consola o terminal de comando, que sirve para intalar GIT en cada sistema operativo es el siguiente.
+El comando de consola o terminal de comando, que sirve para instalar GIT en su respectivo sistema operativo como aparece a continuacion.
 
 WINDOWS
 ```Windows
